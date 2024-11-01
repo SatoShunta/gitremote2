@@ -1,0 +1,2 @@
+def byby():
+   print("さようなら")
