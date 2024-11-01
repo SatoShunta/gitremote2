@@ -1,2 +1,2 @@
-def byby():
+def byebye():
    print("さようなら")
